@@ -1,2 +1,2 @@
 MY APP
-This is my sample app
+This is my sample app for tutorial.
